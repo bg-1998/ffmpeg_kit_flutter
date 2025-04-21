@@ -2,6 +2,6 @@
 
 ### 一个ffmpeg-kit本地化的示例代码
 
-参考文章
+具体可查看文章
 
-[`https://pub-web.flutter-io.cn/packages/flutter_arc_text`](https://pub-web.flutter-io.cn/packages/flutter_arc_text)
+[`https://juejin.cn/spost/7495368038209667084`](https://juejin.cn/spost/7495368038209667084)
